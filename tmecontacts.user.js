@@ -22,6 +22,16 @@
             id: 2221,
             link: 'https://t.me/user_pavel'
         },
+                {
+            //Паша Бачинский
+            id: 71027,
+            link: 'https://t.me/kleine_fuhrerin'
+        },
+                        {
+            //Паша Бачинский
+            id: 2220,
+            link: 'https://t.me/millioneuros'
+        },
          {
             //Денис Сергиенко
             id: 12195,
