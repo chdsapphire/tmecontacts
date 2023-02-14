@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         tmecontacts
 // @namespace    http://tampermonkey.net/
-// @version      0.4
+// @version      0.5
 // @description  Add a Telegram button next to "Александр Богатырёв"
 // @author       You
 // @match        https://bestdating.planfix.com/user/*
@@ -23,6 +23,16 @@
             link: 'https://t.me/user_pavel'
         },
                 {
+            //Юлия Моргун
+            id: 74685,
+            link: 'https://t.me/juliamorhun'
+        },
+        {
+            //Паша Бачинский
+            id: 77362,
+            link: 'https://t.me/kate_mer'
+        },
+        {
             //Паша Бачинский
             id: 71027,
             link: 'https://t.me/kleine_fuhrerin'
