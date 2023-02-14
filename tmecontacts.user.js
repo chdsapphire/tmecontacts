@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         tmecontacts
 // @namespace    http://tampermonkey.net/
-// @version      0.3
+// @version      0.4
 // @description  Add a Telegram button next to "Александр Богатырёв"
 // @author       You
 // @match        https://bestdating.planfix.com/user/*
